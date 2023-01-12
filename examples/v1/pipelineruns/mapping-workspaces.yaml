@@ -23,7 +23,7 @@ data:
        walnuts and pinch of salt
     8. Combine mixtures.
     9. Bake in greased pan for 30 minutes. Watch carefully for
-       appropriate level of gooeyness.
+       appropriate levels of gooeyness.
 ---
 apiVersion: v1
 kind: Secret
